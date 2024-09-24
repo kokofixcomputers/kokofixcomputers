@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![kokofixcomputers's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokofixcomputers&hide=contribs,prs&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show_icons=true)
-![kokofixcomputers's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kokofixcomputers&hide_progress=false)
+![kokofixcomputers's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kokofixcomputers&hide_progress=false&layout=compact)
