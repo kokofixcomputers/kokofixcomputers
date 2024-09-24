@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm kokodev.
+
+I'm currently working on a discord bot.
+
+Discord Development Server: [Click here to join](https://discord.gg/GQd3DrxXyj)
+
+My personal webpage: [https://www.kokodev.cc](https://www.kokodev.cc)
+
 <!--
 **kokofixcomputers/kokofixcomputers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
