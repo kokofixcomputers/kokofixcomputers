@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kokofixcomputers's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokofixcomputers&hide=contribs,prs&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![kokofixcomputers's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokofixcomputers&hide=contribs,prs&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show_icons=true)
