@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ![kokofixcomputers's GitHub stats](https://readme-stats-fork.kokodev.cc/api/top-langs/?username=kokofixcomputers&hide_progress=false&layout=compact&custom_title=Most%20Used%20Language%20On%20Github)
 
 
-![Harlok's WakaTime stats](https://readme-stats-fork.kokodev.cc/api/wakatime?username=kokofixcomputers)
+![kokofixcomputers's WakaTime stats](https://readme-stats-fork.kokodev.cc/api/wakatime?username=kokofixcomputers)
