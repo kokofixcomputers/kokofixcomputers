@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ![kokofixcomputers's WakaTime stats](https://readme-stats-fork.kokodev.cc/api/wakatime?username=kokofixcomputers)
 ## Pins
 ![kokofixcomputers's GitHub stats](https://readme-stats-fork.kokodev.cc/api/pin?username=kokofixcomputers&repo=stop-discord-tracking&show_owner=false)
+![kokofixcomputers's GitHub stats](https://readme-stats-fork.kokodev.cc/api/pin?username=kokofixcomputers&repo=jexactyl&show_owner=false)
